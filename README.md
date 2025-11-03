@@ -9,6 +9,9 @@ I analyze a coffee shop sales record collected over different days and months.
 5. [ Results or Findings](#results-or-findings)
 6. [ Recommendation](#recommendation)
 
+<img width="3166" height="3444" alt="Coffee Dashboard Classwork" src="https://github.com/user-attachments/assets/c6134e32-530d-4a9a-abc5-8b1f0627f0c8" />
+
+
 ### Data sources
 ---
 The primary data used for this analysis was gotten from Kaggle.
